@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz\\Desktop\\Quoridor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\engine\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\engine\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\engine\\ai\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\engine\\ai\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\engine\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\engine\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\observabels\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\observabels\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|c:\\users\\yagiz\\desktop\\quoridor\\quoridor\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571A2B1D-963D-4634-83E0-AFE60FD9B856}|Quoridor\\Quoridor.csproj|solutionrelative:quoridor\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\App.cs",
+              "RelativeDocumentMoniker": "Quoridor\\App.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\App.cs",
+              "RelativeToolTip": "Quoridor\\App.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwD8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:53:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Observabels\\Info.cs",
+              "RelativeDocumentMoniker": "Quoridor\\Observabels\\Info.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Observabels\\Info.cs",
+              "RelativeToolTip": "Quoridor\\Observabels\\Info.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:53:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\SD.cs",
+              "RelativeDocumentMoniker": "Quoridor\\SD.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\SD.cs",
+              "RelativeToolTip": "Quoridor\\SD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:53:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Bot.cs",
+              "RelativeDocumentMoniker": "Quoridor\\Engine\\Bot.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Bot.cs",
+              "RelativeToolTip": "Quoridor\\Engine\\Bot.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:51:42.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Utils\\Helper.cs",
+              "RelativeDocumentMoniker": "Quoridor\\Engine\\Utils\\Helper.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Utils\\Helper.cs",
+              "RelativeToolTip": "Quoridor\\Engine\\Utils\\Helper.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAUwJUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:37:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "Quoridor\\Engine\\Engine.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Engine.cs",
+              "RelativeToolTip": "Quoridor\\Engine\\Engine.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:30:14.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ai.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Ai\\Ai.cs",
+              "RelativeDocumentMoniker": "Quoridor\\Engine\\Ai\\Ai.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Engine\\Ai\\Ai.cs",
+              "RelativeToolTip": "Quoridor\\Engine\\Ai\\Ai.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAIcBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:29:01.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "erbgDJqVvyY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yagiz\\Desktop\\Quoridor\\Quoridor\\Quoridor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yagiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\yagiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yagiz\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\yagiz\\.nuget\\packages\\system.reactive.linq\\6.0.1\\system.reactive.linq.6.0.1.nupkg.sha512",
+    "C:\\Users\\yagiz\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
